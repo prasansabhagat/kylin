@@ -1,7 +1,8 @@
 *{
-    background:linear-gradient(to right bottom, rgba(24, 21, 59, 0.773), rgba(54, 18, 65, 0.653));
+    background:linear-gradient(to right bottom, rgba(11, 9, 34, 0.773), rgba(54, 18, 65, 0.653));
     color:rgb(173, 215, 216);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
 
 }
 .diffcolor{

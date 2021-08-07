@@ -4,7 +4,7 @@ import { Row, Col, } from 'react-bootstrap';
 export class Main extends Component {
     render() {
         return (
-            <div style={{color:"white"}}>
+            <div style={{color:"white", margin:40}}>
                 <Row style={{marginTop:110, marginLeft:60 }}><strong><h1>Building a Cross-chain <br></br>Platform Powering the<br></br> Data Economy on<br></br> Polkadot</h1></strong></Row>
                 <Row style={{marginTop:40,marginLeft:60 }}><p style={{fontSize:20}}>The Data Infrastructure for DeFi and Web<br></br> 3.0 Powered by Polkadot</p></Row>  
                 <Row style={{marginTop:20,marginLeft:60 }}>
